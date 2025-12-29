@@ -1,15 +1,17 @@
+C# Matrix program
+---------------------------------------------
+C# Program to perform Matrix Multiplication
+
 Description
 ---------------------------------------------
-The Following Class1.cs is the program of C#
+The Following is the program of C#
 
 This code allows to perform Multiplication between any 2 valid matrix. 
 
 The following code is limited to perform Multiplication between 2x3 and 3x2 matrix with specific values.
 
-
 The matrix size and it's values are changeable.
 
----------------------------------------------
 Here's how it works
 ---------------------------------------------
 
